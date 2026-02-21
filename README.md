@@ -91,12 +91,14 @@ I am a Revenue Optimization Engineer focused on building systems that directly i
 
 # 📈 Core Strengths
 
-- Revenue Optimization Systems
-- Ad-Tech Ranking Logic
-- Settlement & Financial Automation
-- AI-Augmented Engineering Workflow
-- KPI-Oriented Backend Architecture
-- Business Impact-Driven Development
+- Revenue Optimization & Ranking Systems
+- Ad-Tech & E-commerce Logic Engineering
+- Financial Settlement Automation Architecture
+- AI-Augmented Development Workflow Design
+- KPI-Driven Backend System Architecture
+- Business Impact-Focused Engineering
+- AI-Powered Professional Education Program Design
+- Bridging Engineering Practice and AI Productivity Training
 
 ---
 
