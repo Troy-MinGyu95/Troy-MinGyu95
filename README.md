@@ -22,17 +22,17 @@ I am a Revenue Optimization Engineer focused on building systems that directly i
 
 # 💼 Professional Experience
 
-## 🛒 Shinsegae (2 years)
+## 🛒 Shinsegae
 - Python & JavaScript 기반 상품 노출 최적화 로직 구현
 - 검색 및 랭킹 알고리즘 유지보수 및 개선
 - KPI 기반 로직 개선
 
-## 📦 Coupang (2 years)
+## 📦 Coupang
 - Oracle, SQL 기반 대용량 데이터 처리
 - 수수료 업데이트 및 정산 자동화 시스템 구축
 - VBA 기반 업무 자동화 설계
 
-## 🌏 META – APAC TF (3 months)
+## 🌏 META – APAC TF
 - 유저별 광고 노출 최적화 로직 재설계
 - 글로벌 광고 시스템 구조 개선
 
