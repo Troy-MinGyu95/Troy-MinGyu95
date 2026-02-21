@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mingyu Han
+# 👋 Hi, I'm Troy!(Mingyu Han)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Revenue+Optimization+Engineer;E-commerce+%26+Ad-Tech+Backend+Developer;AI-Driven+System+Builder)
 
@@ -15,9 +15,22 @@ Revenue Optimization Engineer
 또한 생성형 AI 및 AI 개발 도구를 적극 활용하여  
 개발 생산성과 자동화 고도화를 수행합니다.
 
-- 🛒 Shinsegae – 상품 노출 최적화 로직 개발 (2년)
-- 📦 Coupang – 수수료·정산 자동화 시스템 구축 (2년)
-- 🌏 META (APAC TF) – 광고 노출 최적화 로직 재구성 (3개월)
+---
+
+## 💼 Experience
+
+- 🛒 **Shinsegae (2 years)**  
+  Python & JavaScript 기반 상품 노출 최적화 로직 개발 및 유지보수  
+
+- 📦 **Coupang (2 years)**  
+  Oracle, SQL, VBA 기반 수수료 업데이트 및 정산 자동화 시스템 구축  
+
+- 🌏 **META – APAC TF Project (3 months)**  
+  Python & Oracle 활용 유저별 광고 노출 최적화 로직 재구성  
+
+- 🎓 **Hackers Education Group (Present)**  
+  AI 기반 온라인 직무교육 강의 기획 진행  
+  생성형 AI 활용 실무 자동화 · 데이터 기반 의사결정 · AI 생산성 향상 과정 설계  
 
 ---
 
