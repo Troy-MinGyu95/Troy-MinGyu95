@@ -38,7 +38,7 @@ I am a Revenue Optimization Engineer focused on building systems that directly i
 
 ## 🎓 Hackers Education Group (Present)
 - 생성형 AI 활용 온라인 직무교육 강의 기획
-- AI 기반 업무 자동화 커리큘럼 설계
+- AI 기반 업무 자동화 프로그램 설계
 - 실무 중심 데이터 활용 및 생산성 향상 과정 개발
 
 ---
