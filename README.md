@@ -1,8 +1,10 @@
-# 👋 HELLOW UNIVERSE, I'm Troy!(Mingyu Han)
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=180&text=Mingyu%20Han&fontAlign=50&fontAlignY=38&fontSize=54&color=0:0A66C2,100:00C6FF&desc=Data%20%7C%20Automation%20%7C%20AI&descAlign=50&descAlignY=68" />
+  <img src="./neon_cyber_banner.gif" width="900" />
 </p>
+
+---
+
+# 👋 HELLOW UNIVERSE, I'm Troy!(Mingyu Han)
 
 ---
 
