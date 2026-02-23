@@ -55,46 +55,60 @@ I am a Revenue Optimization Engineer focused on building systems that directly i
 
 # 🛠 Tech Stack
 
-## 💻 Programming & Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,cpp,js,spring,docker&perline=6" />
-</p>
+### 📌 Programming & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 ---
 
-## 🗄 Database & Data Engineering
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=oracle" />
-  <br/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+### ☁️ Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=flat-square)
+![Containerization](https://img.shields.io/badge/Containerization-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## 📊 Data Visualization & BI
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
+### 🗄 Database
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
-## ⚙️ Automation
-<p align="center">
-  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
+### 📊 Data & BI
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
 
-## 🤖 AI & Productivity Engineering
-<p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MS_Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Trae-AI?style=for-the-badge"/>
-</p>
+### ⚙️ Automation & Workflow Engineering
+![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Python Automation](https://img.shields.io/badge/Python%20Automation-3776AB?style=flat-square&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell%20Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![API Integration](https://img.shields.io/badge/API%20Integration-FF6F00?style=flat-square)
+![Data Pipeline](https://img.shields.io/badge/Data%20Pipeline-005571?style=flat-square)
+![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-4CAF50?style=flat-square)
+![Task Orchestration](https://img.shields.io/badge/Task%20Orchestration-673AB7?style=flat-square)
+
+---
+
+### 🤖 AI & Productivity
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+![MS Copilot](https://img.shields.io/badge/MS%20Copilot-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=flat-square)
+![Trae](https://img.shields.io/badge/Trae-AI-purple?style=flat-square)
+
+---
+
+### 🧰 Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat-square)
 
 ---
 
