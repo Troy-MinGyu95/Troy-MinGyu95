@@ -1,6 +1,8 @@
 # 👋 HELLOW UNIVERSE, I'm Troy!(Mingyu Han)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Revenue+Optimization+Engineer;E-commerce+%26+Ad-Tech+Backend+Developer;AI-Driven+System+Architect)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=180&text=Mingyu%20Han&fontAlign=50&fontAlignY=38&fontSize=54&color=0:0A66C2,100:00C6FF&desc=Data%20%7C%20Automation%20%7C%20AI&descAlign=50&descAlignY=68" />
+</p>
 
 ---
 
