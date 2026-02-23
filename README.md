@@ -6,17 +6,26 @@
 
 ## 🚀 Who I Am
 
-I am a Revenue Optimization Engineer focused on building systems that directly impact business KPI.
+저는 데이터 기반 분석과 시스템 개선을 통해 비즈니스 KPI 향상에 기여해온 데이터 전문가입니다.  
+(I am a data specialist dedicated to enhancing business KPIs through data-driven analysis and system improvement.)
 
 이커머스 및 광고 플랫폼 환경에서  
 상품 노출, 광고 랭킹, 수수료 정산 자동화 등  
-매출과 직결되는 시스템을 설계하고 개선해왔습니다.
+매출과 직결되는 시스템을 설계하고 개선해왔습니다.  
+(In e-commerce and advertising platform environments,  
+I have worked on designing and improving systems directly connected to revenue,  
+including product exposure logic, ad ranking, and fee settlement automation.)
 
 단순 기능 구현이 아닌  
-**비즈니스 성과를 만들어내는 로직 설계**를 지향합니다.
+**비즈니스 성과를 만들어내는 로직 설계**를 지향합니다.  
+(Rather than simply implementing features,  
+I focus on designing logic that contributes to measurable business outcomes.)
 
 현재는 AI 활용, 데이터 기반 의사결정, 업무 자동화 역량을 바탕으로 
-**온라인 성인 직무 교육** 과정을 기획하고 설계하고 있습니다.
+**온라인 성인 직무 교육** 과정을 기획하고 설계하고 있습니다.  
+(Currently, based on my experience in AI utilization, data-driven decision-making, and workflow automation,  
+I am planning and designing online professional education programs for adult learners.)
+
 
 ---
 
@@ -25,31 +34,42 @@ I am a Revenue Optimization Engineer focused on building systems that directly i
 ---
 
 ### <img src="https://cdn.simpleicons.org/shinsegae/000000" width="24"/> Shinsegae
-- Python 및 JavaScript를 활용한 전국 지점 협력사 매출 데이터 분석
-- 협력사별 매출 현황 및 지표 관리 업무 수행
-- 기존 분석 로직 개선 및 신규 로직 구성 작업
-
+- Python 및 JavaScript를 활용한 전국 지점 협력사 매출 데이터 분석  
+  (Analyzed sales data of partner companies across nationwide branches using Python and JavaScript)  
+- 협력사별 매출 현황 및 지표 관리 업무 수행  
+  (Managed sales performance indicators and metrics by partner)  
+- 기존 분석 로직 개선 및 신규 로직 구성 작업  
+  (Improved existing analysis logic and contributed to the development of new analytical logic)  
 
 
 ### <img src="https://cdn.simpleicons.org/coupang/ff0000" width="24"/> Coupang
-- Oracle, SQL 기반 데이터 처리 및 관리
-- 스토어 수수료 및 정산 자동화 업무 수행
-- VBA를 활용한 반복 업무 효율화
-- Power BI 기반 매출 및 정산 데이터 시각화 및 리포트 구성
-
+- Oracle, MySQL 기반 데이터 처리 및 관리  
+  (Processed and managed data using Oracle and MySQL)  
+- 스토어 수수료 및 정산 자동화 업무 수행  
+  (Performed automation tasks related to store fee updates and settlement processes)  
+- VBA를 활용한 반복 업무 효율화  
+  (Improved repetitive workflows using VBA)  
+- Power BI 기반 매출 및 정산 데이터 시각화 및 리포트 구성  
+  (Created sales and settlement data visualizations and reports using Power BI)  
 
 
 ### <img src="https://cdn.simpleicons.org/meta/0866FF" width="24"/> META – APAC TF
-- 글로벌 사용자(언어, 연령, 거주지역) 기준 광고 접속 데이터 분석
-- 다양한 가정 조건을 반영한 데이터 시뮬레이션 수행
-- 과거 데이터를 기반으로 향후 3년간 예상 데이터 추출 작업 수행
-- 한국, 미국, 일본, 영국, 독일, 대만과의 협업 환경에서 업무 진행
-
+- 글로벌 사용자(언어, 연령, 거주지역) 기준 광고 접속 데이터 분석  
+  (Analyzed advertisement click data based on global user attributes such as language, age, and region)  
+- 다양한 가정 조건을 반영한 데이터 시뮬레이션 수행  
+  (Conducted data simulations incorporating various hypothetical scenarios)  
+- 과거 데이터를 기반으로 향후 3년간 예상 데이터 추출 작업 수행  
+  (Generated projected data for the next three years based on historical datasets)  
+- 한국, 미국, 일본, 영국, 독일, 대만과의 협업 환경에서 업무 진행  
+  (Worked in a global collaboration environment with teams in Korea, USA, Japan, UK, Germany, and Taiwan)  
 
 
 ### 🎓 Hackers Education Group (Present)
-- 생성형 AI 활용한 온라인 직무교육 강의 기획 및 설계
-- AI 기반 데이터 자동화 프로그램 및 SOP 제작
+- 생성형 AI 활용한 온라인 직무교육 강의 기획 및 설계  
+  (Planned and designed online professional training courses utilizing generative AI)  
+- AI 기반 데이터 자동화 프로그램 및 SOP 제작  
+  (Developed AI-based data automation programs and Standard Operating Procedures)  
+
 
 ---
 
@@ -109,6 +129,12 @@ I am a Revenue Optimization Engineer focused on building systems that directly i
 ### 🧰 Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat-square)
+
+---
+
+### 💬 Collaboration
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white)
 
 ---
 
