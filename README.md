@@ -15,8 +15,8 @@ I am a Revenue Optimization Engineer focused on building systems that directly i
 단순 기능 구현이 아닌  
 **비즈니스 성과를 만들어내는 로직 설계**를 지향합니다.
 
-또한 생성형 AI 및 AI 개발 도구를 적극 활용하여  
-개발 생산성 향상, 자동화 고도화, 데이터 기반 의사결정 구조를 설계합니다.
+현재는 AI 활용, 데이터 기반 의사결정, 업무 자동화 역량을 바탕으로 
+**온라인 성인 직무 교육** 과정을 기획하고 설계하고 있습니다.
 
 ---
 
