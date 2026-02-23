@@ -22,24 +22,34 @@ I am a Revenue Optimization Engineer focused on building systems that directly i
 
 # 💼 Professional Experience
 
-## 🛒 Shinsegae
-- Python & JavaScript 기반 상품 노출 최적화 로직 구현
-- 검색 및 랭킹 알고리즘 유지보수 및 개선
-- KPI 기반 로직 개선
+---
 
-## 📦 Coupang
-- Oracle, SQL 기반 대용량 데이터 처리
-- 수수료 업데이트 및 정산 자동화 시스템 구축
-- VBA 기반 업무 자동화 설계
+### <img src="https://cdn.simpleicons.org/shinsegae/000000" width="24"/> Shinsegae
+- Python 및 JavaScript를 활용한 전국 지점 협력사 매출 데이터 분석
+- 협력사별 매출 현황 및 지표 관리 업무 수행
+- 기존 분석 로직 개선 및 신규 로직 구성 작업
 
-## 🌏 META – APAC TF
-- 유저별 광고 노출 최적화 로직 재설계
-- 글로벌 광고 시스템 구조 개선
 
-## 🎓 Hackers Education Group (Present)
-- 생성형 AI 활용 온라인 직무교육 강의 기획
-- AI 기반 업무 자동화 프로그램 설계
-- 실무 중심 데이터 활용 및 생산성 향상 과정 개발
+
+### <img src="https://cdn.simpleicons.org/coupang/ff0000" width="24"/> Coupang
+- Oracle, SQL 기반 데이터 처리 및 관리
+- 스토어 수수료 및 정산 자동화 업무 수행
+- VBA를 활용한 반복 업무 효율화
+- Power BI 기반 매출 및 정산 데이터 시각화 및 리포트 구성
+
+
+
+### <img src="https://cdn.simpleicons.org/meta/0866FF" width="24"/> META – APAC TF
+- 글로벌 사용자(언어, 연령, 거주지역) 기준 광고 접속 데이터 분석
+- 다양한 가정 조건을 반영한 데이터 시뮬레이션 수행
+- 과거 데이터를 기반으로 향후 3년간 예상 데이터 추출 작업 수행
+- 한국, 미국, 일본, 영국, 독일, 대만과의 협업 환경에서 업무 진행
+
+
+
+### 🎓 Hackers Education Group (Present)
+- 생성형 AI 활용한 온라인 직무교육 강의 기획 및 설계
+- AI 기반 데이터 자동화 프로그램 및 SOP 제작
 
 ---
 
@@ -61,7 +71,14 @@ I am a Revenue Optimization Engineer focused on building systems that directly i
 
 ---
 
-## 📊 Automation
+## 📊 Data Visualization & BI
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+---
+
+## ⚙️ Automation
 <p align="center">
   <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
@@ -77,14 +94,6 @@ I am a Revenue Optimization Engineer focused on building systems that directly i
   <br/>
   <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Trae-AI?style=for-the-badge"/>
-</p>
-
----
-
-## 🧰 Development Environment
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
 ---
